@@ -7,3 +7,7 @@ GIT GUI tools
 
 
 edited after pushing
+
+Learn 
+.ignore , revert , merge
+staging for the examination
